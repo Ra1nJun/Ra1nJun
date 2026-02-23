@@ -31,17 +31,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
         <div align= "center">
-            <picture>
-              <source
-                srcset="https://github-readme-stats.vercel.app/api?username=Ra1nJun&show_icons=true&theme=dark"
-                media="(prefers-color-scheme: dark)"
-              />
-              <source
-                srcset="https://github-readme-stats.vercel.app/api?username=Ra1nJun&show_icons=true"
-                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-              />
-              <img src="https://github-readme-stats.vercel.app/api?username=Ra1nJun&show_icons=true" />
-            </picture>
+            [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Ra1nJun)](https://github.com/anuraghazra/github-readme-stats)
         </div> 
     </div>
     
