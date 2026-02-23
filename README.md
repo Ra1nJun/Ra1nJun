@@ -31,7 +31,17 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
         <div align= "center">
-        ![Ra1nJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ra1nJun&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+            <picture>
+              <source
+                srcset="https://github-readme-stats.vercel.app/api?username=Ra1nJun&show_icons=true&theme=dark"
+                media="(prefers-color-scheme: dark)"
+              />
+              <source
+                srcset="https://github-readme-stats.vercel.app/api?username=Ra1nJun&show_icons=true"
+                media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+              />
+              <img src="https://github-readme-stats.vercel.app/api?username=Ra1nJun&show_icons=true" />
+            </picture>
         </div> 
     </div>
     
