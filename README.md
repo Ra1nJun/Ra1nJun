@@ -31,7 +31,7 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
         <div align= "center">
-        [![Ra1nJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ra1nJun)](https://github.com/Ra1nJun/github-readme-stats)
+        ![Ra1nJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ra1nJun&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
         </div> 
     </div>
     
